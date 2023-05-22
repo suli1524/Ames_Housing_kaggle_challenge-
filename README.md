@@ -25,8 +25,8 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/b2a3a87f44634d209272075aca507f6e)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-123 Regression Challenge](https://www.kaggle.com/competitions/project-2-regression-challenge-123/overview)
+2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/08d1739fb1f543f69cfe152befb67d13)) to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSIR-608 Regression Challenge](https://www.kaggle.com/competitions/project-2-regression-challenge-dsi-508/overview)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -48,15 +48,15 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, February 17th @ 10 AM EST**.
+Materials must be submitted by the beginning of class on **Monday, June 5th @ 10 AM EST**.
 
-The last day for the Kaggle competition will be **Thursday, February 16th @ 11:59 PM EST**.
+The last day for the Kaggle competition will be **Sunday, June 4th @ 11:59 PM EST**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
-- A README.md (that isn't this file). Take a look at this style guide [here](https://git.generalassemb.ly/dsi-123/style-guide)
+- A README.md (that isn't this file).
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSIR-123 Regression Challenge](https://www.kaggle.com/competitions/project-2-regression-challenge-123/overview) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/competitions/project-2-regression-challenge-123/leaderboard)" tab.
+- At least three successful prediction submissions on [DSIR-508 Regression Challenge](https://www.kaggle.com/competitions/project-2-regression-challenge-dsi-508/overview) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/competitions/project-2-regression-challenge-dsi-508/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
