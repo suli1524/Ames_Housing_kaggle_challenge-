@@ -26,7 +26,7 @@ Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/08d1739fb1f543f69cfe152befb67d13)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-608 Regression Challenge](https://www.kaggle.com/competitions/project-2-regression-challenge-dsi-508/overview)
+3. Review the material on the [DSIR-508 Regression Challenge](https://www.kaggle.com/competitions/project-2-regression-challenge-dsi-508/overview)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
