@@ -69,12 +69,14 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 
 - **Presentation should be between 5-8 minutes.**
 - Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider your audience. (This depends on your problem statement!)
+- Consider your audience. 
+(This depends on your problem statement!)
 - Start with the **data science problem**.
 - Use visuals that are appropriately scaled and interpretable.
 - Talk about your procedure/methodology (high level).
 - Talk about your primary findings.
 - Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
+- [More presentation advice here!](https://git.generalassemb.ly/dsi-911/course-info/blob/master/presentation-advice.md)
 
 Be sure to rehearse and time your presentation before class.
 
